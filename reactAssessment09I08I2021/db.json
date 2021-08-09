@@ -1,0 +1,69 @@
+{
+  "user": [],
+  "students": [
+    {
+      "name": "Savitha Narayanan ",
+      "email": "rikhitham@gmail.com",
+      "phone": "7871831342",
+      "age": "34",
+      "id": 1
+    },
+    {
+      "name": "rikitha",
+      "email": "rikhitham@gmail.com",
+      "phone": "9962086889",
+      "age": "22",
+      "gender": "",
+      "country": "",
+      "pannumber": "",
+      "income": "",
+      "ctype": "",
+      "id": 2
+    },
+    {
+      "name": "Hello",
+      "email": "rikhitham@gmail.com",
+      "phone": "9962086889",
+      "age": "23",
+      "id": 3
+    },
+    {
+      "name": "sakshi",
+      "email": "s@gmail.com",
+      "phone": "7876543245",
+      "age": "23",
+      "id": 4
+    },
+    {
+      "name": "vinneth",
+      "email": "v@gmail.com",
+      "phone": "897356271",
+      "age": "21",
+      "id": 5
+    },
+    {
+      "name": "sid",
+      "email": "sd@gmail.com",
+      "phone": "8735621234",
+      "age": "21",
+      "id": 6
+    },
+    {
+      "name": "dikdi",
+      "email": "dd@gmail.com",
+      "phone": "9962086889",
+      "age": "22",
+      "id": 7
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Business Studies"
+    },
+    {
+      "id": 2,
+      "name": "Accounts"
+    }
+  ]
+}
