@@ -1,0 +1,28 @@
+.inputcc
+{
+    width:22%;
+    padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+.inputcc[type=text]:focus {
+    background-color: lightblue;
+    border: 3px solid #555;
+  }
+
+  .buttcc
+  {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    margin: 8px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:22%;
+
+  }
